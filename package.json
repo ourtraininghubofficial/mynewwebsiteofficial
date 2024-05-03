@@ -1,0 +1,11 @@
+{
+  "name": "m",
+  "version": "1.0.0",
+  "description": "s",
+  "main": "index.html",
+  "scripts": {
+    "test": "build"
+  },
+  "author": "",
+  "license": "ISC"
+}
